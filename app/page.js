@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { useState } from "react";
 
-const APK_URL = "/ISSS.apk";
+const APK_URL = "/SaludPlus.apk";
 
 const features = [
   {
