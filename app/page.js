@@ -41,7 +41,7 @@ const features = [
 const faqs = [
   {
     q: "¿La aplicación tiene algún costo?",
-    a: "No. ISSS-APP es completamente gratuita para los derechohabientes del ISSS.",
+    a: "No. SaludPlus es completamente gratuita para los derechohabientes del ISSS.",
   },
   {
     q: "¿Para qué dispositivos está disponible?",
@@ -250,9 +250,9 @@ export default function Home() {
             </h1>
 
             <p className="mt-5 max-w-md text-lg leading-relaxed text-[var(--muted)]">
-              ISSS digitaliza tus citas de especialidad: agéndalas en línea,
-              recibe recordatorios y ubica tu unidad médica. Menos espera, más
-              salud.
+              SaludPlus digitaliza tus citas de especialidad: agéndalas en
+              línea, recibe recordatorios y ubica tu unidad médica. Menos
+              espera, más salud.
             </p>
 
             <div className="mt-8 flex flex-wrap items-center gap-4">
@@ -383,7 +383,7 @@ export default function Home() {
           </div>
 
           <div className="mt-8 rounded-2xl bg-[var(--green-soft)] p-6 text-[var(--brand-dark)] md:p-8">
-            <p className="display text-xl font-bold">La solución: ISSS</p>
+            <p className="display text-xl font-bold">La solución: SaludPlus</p>
             <p className="mt-2 text-[var(--brand-dark)]/80">
               Una plataforma móvil que digitaliza el flujo completo de atención.
               Reduce la saturación en ventanillas, optimiza el tiempo del
@@ -444,7 +444,7 @@ export default function Home() {
           <div className="relative grid items-center gap-10 md:grid-cols-2">
             <div>
               <h2 className="display text-3xl font-bold leading-tight tracking-tight md:text-4xl">
-                Descarga ISSS
+                Descarga SaludPlus
                 <br /> y agenda en minutos
               </h2>
               <p className="mt-4 max-w-md text-white/75">
@@ -505,10 +505,10 @@ export default function Home() {
             </h2>
             <p className="mt-4 text-lg leading-relaxed text-[var(--muted)]">
               El ISSS es el pilar de la seguridad social en El Salvador y
-              atiende a miles de derechohabientes. ISSS nace para modernizar el
-              acceso a las consultas de especialidad, sustituyendo procesos
-              manuales y presenciales por un flujo digital, claro y accesible
-              para todos.
+              atiende a miles de derechohabientes. SaludPlus nace para
+              modernizar el acceso a las consultas de especialidad, sustituyendo
+              procesos manuales y presenciales por un flujo digital, claro y
+              accesible para todos.
             </p>
             <p className="mt-4 leading-relaxed text-[var(--muted)]">
               Construido con una arquitectura cliente–servidor robusta, prioriza
@@ -582,8 +582,9 @@ export default function Home() {
             />
           </div>
           <p className="text-white/60">
-            Proyecto académico · Gestión de citas médicas para el ISSS, El
-            Salvador
+            · Proyecto académico <br />· Gestión de citas médicas para el ISSS,
+            El Salvador <br />· Todos los Derechos Reservados por Los Intocables
+            2026
           </p>
           <a
             href="#descargar"
